@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+THERE WAS NO PENCIL ICON
 Use the left arrow to go back!
